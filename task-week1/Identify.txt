@@ -1,0 +1,5 @@
+Please enter your details:
+
+Name:  Tom Wang 
+NETID:  12345678
+Favorite book and author:  Introduction to Algorithms by Thomas H. Cormen
